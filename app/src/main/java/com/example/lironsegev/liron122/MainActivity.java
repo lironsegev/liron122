@@ -27,8 +27,6 @@ public class MainActivity extends AppCompatActivity {
             liron.setBackgroundColor(Color.GREEN);
         else
             liron.setBackgroundColor(Color.YELLOW);
-
-
     }
 
     public void onToggle(View view) {
